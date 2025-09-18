@@ -135,7 +135,3 @@ output/hindi_subtitles/interview_hi_subtitles.srt
 4. Open a Pull Request
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** – free to use and modify.
